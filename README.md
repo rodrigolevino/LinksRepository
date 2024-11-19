@@ -33,11 +33,14 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 ## 💻 Projeto
 
 O DevLinks é um agregador de links para usar como cartão de visitas online.
+- [Acesse o projeto finalizado, online](https://rodrigolevino.github.io/LinksRepository/#)
 
 ## 📚 Aprendizados
 
 - Conteúdos básicos de css, organização e estilização da página, como mudança da cor do tema (Tema claro e escuro) ao clicar no botão, pseudo seletores, centralização de objetos, transições, camadas, etc.
+  
 - Em html, definição das tags (Para criar links, imagens, listas, entre outros), funções de manipulação de eventos, diferenciação por id e classe, etc.
+  
 - E em JavaScript criação de funções, como definir variáveis, básico de POO (Objetos) e como utilizar as funções para fazer alterações no css.
 
 ## 🔖 Layout
